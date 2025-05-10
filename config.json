@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "Referer": "https://www.pixiv.net/",
+    "X-Requested-With": "XMLHttpRequest"
+  },
+  "ranking": {
+    "mode": "daily",
+    "content": "illust",
+    "pages": 1
+  },
+  "auth": {
+    "username": "",
+    "password": ""
+  },
+  "cookies": ""
+}
